@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+  margin-left: 10px;
+  float: left;
+
+}
+
+.text {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 16px;
+}
+
+.gray {
+  height: 10%;
+  background-color: grey;
+}
+
+.white {
+  height: 20%;
+  background-color: white;
+  padding: 50px;
+}
+
+.blue {
+  height: 15%;
+  background-color: blue;
+}
+
+.lblue {
+  height: 15%;
+  background-color: lightblue;
+}
+
+.green {
+  height: 15%;
+  background-color: green;
+}
+
+.lgreen {
+  height: 15%;
+  background-color: lightgreen;
+}
